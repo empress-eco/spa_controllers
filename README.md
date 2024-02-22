@@ -1,3 +1,8 @@
+
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
 <p align="center">
 Enhance your web applications with the power of Framework and Vue 3!
 <br />
@@ -10,7 +15,12 @@ Enhance your web applications with the power of Framework and Vue 3!
 <a href="https://github.com/empress-eco/spa_controllers/issues">Request Features</a>
 </p>
 
-![Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+
+</div>
+
+
+
+
 
 ## About spa_controllers
 
